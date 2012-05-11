@@ -1,0 +1,11 @@
+NetBEUI (NBF) es un protocolo adecuado para redes pequeñas.
+El soporte técnico para este protocolo en Microsoft Windows ha sido descontinuado.
+Si el personal de soporte técnico le ha aconsejado instalar este protocolo 
+como una medida temporal, siga las siguientes instrucciones.
+
+Instrucciones de instalación para el protocolo NetBEUI en Windows XP y Windows 2002.
+
+* copie nbf.sys en el directorio %SYSTEMROOT%\SYSTEM32\DRIVERS\
+* copie netnbf.inf en el directorio %SYSTEMROOT%\INF\
+* abra las propiedades de conexión de red y use el botón "Instalar..." para agregar el protocolo NetBEUI
+

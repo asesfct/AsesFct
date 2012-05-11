@@ -1,0 +1,19 @@
+Mysql
+
+
+http://menteprincipiante.com/2011/06/instalar-y-configurar-mysql-en-windows-7-paso-a-paso/
+
+Apache
+
+http://menteprincipiante.com/2011/06/instalar-apache-2-2-en-windows-7-paso-a-paso/
+
+php5
+http://menteprincipiante.com/2011/06/instalar-y-configurar-php-5-en-windows-7-con-apache-paso-a-paso/
+
+
+mysql administrator
+
+http://www.desarrolloweb.com/articulos/1798.php
+
+
+https://www.startssl.com
